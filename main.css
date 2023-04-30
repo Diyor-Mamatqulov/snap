@@ -148,7 +148,7 @@ caption {
   padding-top: 20px;
   padding-left: 0;
   background-color: #fff;
-  text-align: center;
+  text-align: left;
   list-style: none;
 }
 
@@ -181,7 +181,7 @@ caption {
   display: inline-block;
   background-image: url("./images/reminders.svg");
   background-repeat: no-repeat;
-  width: 12px;
+  width: 16px;
   height: 16px;
   content: "";
 }
@@ -208,7 +208,7 @@ caption {
   padding-left: 0;
   background-color: #fff;
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 .nav__item--second:hover .nav__dropdown-list-last {
   display: block;
